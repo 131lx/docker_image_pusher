@@ -6,5 +6,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 #vinlic/kimi-free-api
-mysql:latest
-
+#mysql:latest
+nginx
